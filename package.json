@@ -1,0 +1,15 @@
+{
+  "name": "sw-test",
+  "version": "1.0.0",
+  "description": "This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elm-live src/Main.elm --open --pushstate -- --debug --output=elm.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-live": "^3.2.3"
+  }
+}
